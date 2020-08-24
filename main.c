@@ -4,6 +4,6 @@
 
 int main ()
 {
-    circles();
+    input();
     return 0;
 }
